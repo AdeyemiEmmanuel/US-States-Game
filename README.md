@@ -17,6 +17,7 @@ Welcome to the US States Game! This interactive game tests your knowledge of the
 4. To exit the game at any time, simply enter 'Exit' in the input field and press Enter or click the Submit button.
 5. After the game ends, you will see your final score.
 
-## Preview
-
 Happy gaming and learning!
+
+## Preview
+![Screenshot (189)](https://github.com/AdeyemiEmmanuel/US-States-Game/assets/98936329/13a8a5fd-9fb6-4c1b-8e1d-717d7a5478f2)
